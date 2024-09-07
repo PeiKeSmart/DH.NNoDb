@@ -46,7 +46,7 @@
     <PackageReference Include="System.ValueTuple" Version="4.5.0" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DH.NCore" Version="3.7.2024.903-beta0157" />
+    <PackageReference Include="DH.NCore" Version="3.7.2024.905-beta0329" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="..\Doc\DH.png" Link="DH.png" PackagePath="\" />
